@@ -20,7 +20,7 @@ or
 <br><br>
 
 **Instructions to Run the Project**
--  Run [Main.java](Main.java) file
+-  Run [Main.java](src/Main.java) file
 
 <br><br>
 **Theory**
